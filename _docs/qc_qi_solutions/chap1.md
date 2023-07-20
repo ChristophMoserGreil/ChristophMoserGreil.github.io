@@ -1,6 +1,6 @@
 ---
-title: iOS
-category: Devices
+title: Chapter 1
+category: Solutions for QC and QI
 order: 1
 ---
 

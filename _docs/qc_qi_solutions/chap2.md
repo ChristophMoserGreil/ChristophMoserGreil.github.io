@@ -1,6 +1,6 @@
 ---
-title: Android
-category: Devices
+title: Chapter 2
+category: Solutions for QC and QI
 order: 2
 ---
 
