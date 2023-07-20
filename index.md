@@ -1,5 +1,5 @@
 ---
-title: Quantum Curiosity dive
+title: Quantum Deepdive
 ---
 A small personal blog intended for myself to track my personal dive into the field of quantum computing and related areas.
 
